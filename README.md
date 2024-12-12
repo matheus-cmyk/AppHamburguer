@@ -79,5 +79,3 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
  ## 📄 Licença
  
-
- ## 📄 Licença
